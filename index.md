@@ -1,8 +1,7 @@
 ---
 layout: lesson
 ---
-This lesson is a template for creating [geohackweek]({{site.ghw_site}})
-lessons.
+This lesson is a template for creating hackweek lessons.
 
 It is based on the lesson template used in [Data Carpentry]({{ site.dc_site }})
-and [Software Carpentry]({{ site.swc_site }}) workshops,
+and [Software Carpentry]({{ site.swc_site }}) workshops.

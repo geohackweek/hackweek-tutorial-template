@@ -22,3 +22,13 @@ choose your own user account and owner, then enter the name of the lesson/reposi
   - Add coffee breaks into the lesson. This keeps the timing of each section
     accurate.
 
+NOTE: If you have Jekyll installed, you can preview your edits locally:
+
+```
+jekyll serve --config _config.yml,_config_dev.yml
+```
+
+## TODO:
+
+- remove manual editing of lesson_footer.html and navbar.html
+ 
