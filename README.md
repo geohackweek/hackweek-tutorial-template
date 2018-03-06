@@ -27,8 +27,3 @@ NOTE: If you have Jekyll installed, you can preview your edits locally:
 ```
 jekyll serve --config _config.yml,_config_dev.yml
 ```
-
-## TODO:
-
-- remove manual editing of lesson_footer.html and navbar.html
- 
