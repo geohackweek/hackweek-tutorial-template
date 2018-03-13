@@ -41,12 +41,11 @@ write exactly what you intend to say.
 If you want to introduce a block of code into your lesson, write a block
 fenced by triple-tilde. Here is an example of that
 
-~~~
+{%highlight python%}
 import nibabel as nib
 img = nib.load('my_file.nii.gz')
 affine = img.affine
-~~~
-{: .python}
+{%endhighlight%}
 
 
 Images can be embedded into the lesson plan, by using the following syntax:
